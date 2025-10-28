@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ZhiyuanLYU
-- 👀 I’m interested in computation geometry, medical imaging, mathematical geometry processing, and scientific computing.
+- 👀 I’m interested in computational geometry, medical imaging, mathematical geometry processing, and scientific computing.
 - 🌱 I’m currently learning computational differential geometry and imaging science. 
 - 💞️ I’m looking to collaborate on imaging science, computational differential geometry, and scientific computing.
 
